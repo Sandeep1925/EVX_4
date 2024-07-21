@@ -116,7 +116,7 @@ npm install @openzeppelin/contracts
 
 #### For Remix:    
 1. Open Remix IDE.  
-2. Upload MyContract.sol.  
+2. Upload MyGame.sol.  
 3. Compile and deploy the contract.  
 
 
